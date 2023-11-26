@@ -29,9 +29,3 @@ I am a third-year Information Systems student & working as a Product Designer wi
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/uixvandev"><img src="https://github-readme-stats.vercel.app/api?username=uixvandev&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=0891b2&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true" alt="uixvandev's GitHub stats" /></a>
-
-<a href="https://github.com/uixvandev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uixvandev&langs_count=10&title_color=0891b2&text_color=0891b2&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
