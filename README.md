@@ -1,4 +1,3 @@
-
 <h2 align="left">Hi 👋! My name is Irfan Wahendra and I'm a Mobile Developer Enthusiast, from  Indonesia🇮🇩</h2>
 
 ###
@@ -35,6 +34,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <div align="center">
   <a href="https://www.linkedin.com/in/irfanwahendra/" target="_blank">
