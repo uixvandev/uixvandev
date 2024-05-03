@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Irfan Wahendra and I'm a Mobile Developer Enthusiast, from  Indonesia🇮🇩</h2>
+<h2 align="left">Hi! My name is Irfan Wahendra and I'm a Mobile Developer Enthusiast, from  Indonesia🇮🇩</h2>
 
 ###
 
