@@ -1,4 +1,4 @@
-<h2 align="left">Hi! My name is Irfan Wahendra and I'm a Mobile Developer Enthusiast, from  Indonesia🇮🇩</h2>
+<h2 align="left">Hi 👋! My name is Irfan Wahendra and I'm a Mobile Developer Enthusiast, from  Indonesia🇮🇩</h2>
 
 ###
 
@@ -28,13 +28,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=uixvandev&locale=en&mode=weekly&theme=blueberry&hide_border=true&border_radius=8" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=uixvandev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blueberry&hide_border=true" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <br clear="both">
 
 <div align="center">
@@ -53,6 +46,12 @@
   <a href="https://twitter.com/IrfanCode" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="56" height="32" alt="twitter logo"  />
   </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=uixvandev&theme=dracula&area=true&hide_border=true&hide_title=false" height="150" alt="activity-graph graph"  />
 </div>
 
 ###
