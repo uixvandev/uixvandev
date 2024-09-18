@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning iOS Development<br>🎯 Goals: iOS Developer<br>🎲 Fun fact: I'm playing HOK</p>
+<p align="left">📚 I'm currently learning iOS Development<br>🎯 Goals: iOS Developer<br>🎲 Fun fact: I'm from a UI/UX Designer</p>
 
 ###
 
